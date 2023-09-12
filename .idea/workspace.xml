@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cc7358f-add9-4453-aa24-ffea6ecc8a58" name="Changes" comment="programowanie obiektowe">
-      <change afterPath="$PROJECT_DIR$/src/Nauczyciel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Wychowawca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klasa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Osoba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Osoba.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uczen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uczen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Wychowawca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Wychowawca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +20,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubPullRequestsUISettings">
@@ -70,7 +74,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

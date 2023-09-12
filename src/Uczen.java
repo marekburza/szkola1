@@ -12,4 +12,7 @@ public class Uczen extends Osoba {
     public String toString() {
         return "Uczen{ imie: "+ getImie()+" nazwisko: "+getNazwisko() + "nr ucznia: "+nrUcznia+"}";
     }
+    public void dyzuruj(){
+        System.out.println("Wycieranie tablicy");
+    }
 }
